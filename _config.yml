@@ -23,9 +23,9 @@ linkedin_username: elliot-pack-4478368
 # about_title: About Me
 about_profile_image: images/me.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Elliot and I'm pursuing a position as a data analyst. I studied finance and accounting at the University of Maryland and am currently a consultant at Baker Tilly. 
+  Hi, my name's Elliot and I'm a data analyst from Washington, D.C. I currently work with Baker Tilly's Government Contracting Consulting Services (GCAS) team to identify, quantify, and manage government contract risk through regulatory and compliance consulting.  
 
-  I am most skilled in: <mark>SQL</mark> and <mark>Tableau</mark> and <mark>Excel</mark>
+  My background is in finance and accounting but I am also skilled in: <mark>SQL</mark> and <mark>Tableau</mark> and <mark>Python</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -39,11 +39,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in data science some of my other interests and hobbies are:
+   - Running
+   - Photography
+   - Cooking
 
 # Footer
 footer_show_references: true
