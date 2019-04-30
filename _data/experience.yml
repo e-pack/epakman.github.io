@@ -1,8 +1,22 @@
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+- company: Baker Tilly Virchow Krause, LLP
+  link: https://www.bakertilly.com/
+  job_title: Experienced Staff Consultant
+  dates: August 2017 - Current
+  #quote: >
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Advising government contractors and their legal counsel on various compliance and regulatory topic areas including commercial item pricing, cost accounting practices, and proposal development 
+
+- company: University Recreation and Wellness 
+  job_title: Experienced Staff Consultant
+  dates: January 2015 - May 2017
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+     Acted as first point of contact between university recreation department and campus community
+
+- company: Client Network Services Inc. (CSNI)
+  job_title: Finance and Accounting Intern
+  dates: June 2015 - August 2015
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+     Supported accounting department at healthcare IT government contractor 
+
